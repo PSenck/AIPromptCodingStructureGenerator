@@ -1,0 +1,2 @@
+# AIPromptCodingStructureGenerator
+AIPromptCodingStructureGenerator
